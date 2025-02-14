@@ -76,7 +76,7 @@
         "description":"An e-commerce website specializing in the sales of kitchen wares",
         "img" :"/chef-timbu.png",
         "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
-        "github_url": "https://github.com/codegallantx/educonnect",
+        "github_url": "https://github.com/codegallantx/chef",
         "demo_url": "https://chef-store-cgx.vercel.app/",
     },
     {
