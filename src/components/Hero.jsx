@@ -31,7 +31,7 @@ export default function Hero() {
           />
         </p>
         <p className="text-lg text-left leading-loose">
-          I develop responsive and user-friendly frontend applications, ensuring they are fast, intuitive, and accessible across all devices. I also contribute to backend development and occasionally design interfaces to deliver seamless and visually appealing solutions.
+        I build fast, responsive, and user-friendly web apps that work smoothly on any device. I focus on clean design, seamless interactions, and performance optimization. Beyond the frontend, I explore backend development and dive into data analysis, machine learning, and AI integration to create smarter, more efficient solutions.
         </p>
         <div className="flex flex-row space-x-6 items-start text-left justify-center">
           <a href="https://wa.me/08096044860" target="_blank" rel="noopener noreferrer">
