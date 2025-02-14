@@ -77,7 +77,7 @@
         "img" :"/chef-timbu.png",
         "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
         "github_url": "https://github.com/codegallantx/educonnect",
-        "demo_url": "https://educonect.vercel.app/"
+        "demo_url": "https://chef-store-cgx.vercel.app/",
     },
     {
         "title":"NodeFall",
