@@ -1,0 +1,98 @@
+[
+    {
+        "title":"Tripout.co",
+        "description":"Tripout.co is a travel agency that helps you plan any kind of trip, short weekend holiday, or a vacation, while helping you save the money needed to pay the trip fees.",
+        "img" :"/tripout.png",
+        "tech_stack": ["React", "TailwindCSS"],
+        "github_url": "https://github.com/codegallantx/tripout-tour",
+        "demo_url": "https://tripout-tour-v4.vercel.app/"
+    },
+    {
+        "title":"STEM-HUB",
+        "description":"A web app for interactive STEM learning through simulations, games, and other engaging activities",
+        "img" :"/stemhub.png",
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS"],
+        "github_url": "https://github.com/codegallantx/stem-hub",
+        "demo_url": "https://stem-hub.vercel.app/"
+    },
+    {
+        "title":"CivicTrack",
+        "description":"CivicTrack is an open database platform designed to promote political transparency in Africa, focusing on Nigerian politicians.",
+        "img" :"/civictrack.png",
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
+        "github_url": "https://github.com/codegallantx/civictrack",
+        "demo_url": "https://civic-track-tkhv.vercel.app/"
+    },
+    {
+        "title":"StatEase",
+        "description":"A user-friendly statistics app for descriptive analysis, data visualizations, and inferential statistics",
+        "img" :"/statease.png",
+        "tech_stack": ["Python", "Streamlit"],
+        "github_url": "https://github.com/codegallantx/statease",
+        "demo_url": "https://statease-cgx.streamlit.app/"
+    },
+    {
+        "title":"LevelUp Recyclers",
+        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
+        "img" :"",
+        "tech_stack": ["TypeScript", "Next.js", "TailwindCSS"],
+        "github_url": "#",
+        "demo_url": "https://leveluprecyclers.com/"
+    },
+    {
+        "title":"EkoStudy",
+        "description":"EkoStudy is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
+        "img" :"",
+        "tech_stack": ["HTML", "CSS", "JavaScript"],
+        "github_url": "https://github.com/codegallantx/ekostudy",
+        "demo_url": "https://ekostudy.vercel.app/"
+    },
+    {
+        "title":"EduConnect",
+        "description":"A platform for students to ask questions and to answer questions for improvements in their academics through aid from more knowledgeable people such as: class mates, teachers, mentors, e.t.c",
+        "img" :"/educonnect.png",
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
+        "github_url": "https://github.com/codegallantx/educonnect",
+        "demo_url": "https://educonect.vercel.app/"
+    },
+    {
+        "title":"Silent Note Passing Protocol (SNPP)",
+        "description":"A light-weight web messaging application for passing of notes without talking.",
+        "img" :"/thumbnail.png",
+        "tech_stack": ["HTML", "CSS", "TailwindCSS", "JavaScript", "Python", "Django", "PostgreSQL"],
+        "github_url": "https://github.com/codegallantx/snpp",
+        "demo_url": "https://silent-note-passing-protocol.onrender.com/"
+    },
+    {
+        "title":"ReleCloud",
+        "description":"ReleCloud is a space travel agency...",
+        "img" :"",
+        "tech_stack": ["HTML", "CSS", "TailwindCSS", "JavaScript", "Python", "Django", "SQLite"],
+        "github_url": "https://github.com/codegallantx/relecloud",
+        "demo_url": "#"
+    },
+    {
+        "title":"CHEF",
+        "description":"An e-commerce website specializing in the sales of kitchen wares",
+        "img" :"/chef-timbu.png",
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
+        "github_url": "https://github.com/codegallantx/educonnect",
+        "demo_url": "https://educonect.vercel.app/"
+    },
+    {
+        "title":"NodeFall",
+        "description":"NodeFall is a game-hosting platform that allows users to host games on their servers",
+        "img" :"",
+        "tech_stack": ["HTML", "CSS", "JavaScript"],
+        "github_url": "https://github.com/codegallantx/nodefall",
+        "demo_url": "https://nodefall.vercel.app/"
+    },
+    {
+        "title":"ZORIN PC",
+        "description":"A web version of the Zorin OS interface.",
+        "img" :"/chef-timbu.png",
+        "tech_stack": ["HTML", "CSS", "JavaScript"],
+        "github_url": "https://github.com/codegallantx/zorin-pc",
+        "demo_url": "https://zorin-pc.vercel.app/"
+    }
+]

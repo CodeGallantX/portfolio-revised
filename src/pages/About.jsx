@@ -1,5 +1,6 @@
 import Header from "../components/HeaderComponent"
 import TechStack from "../components/TechStack"
+import Footer from "../components/Footer"
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
       <Header />
       <div className="py-40 min-h-screen px-10 md:px-16 lg:px-20 xl:px-40 bg-white space-y-20">
         <h1 className="text-center text-xl font-semibold">About Me</h1>
-        <em className="text-center">”What defines a transformer is not the cog in its chest, but the spark that resides in their core“ – Alpha Trion</em>
+        <p className="text-center">”What defines a transformer is not the cog in its chest, but the spark that resides in their core“ – Alpha Trion</p>
         <section className="grid grid-cols-1 lg:grid-cols-2 gap-0 items-start justify-center text-center">
           <div className="h-auto w-auto md:w-10/12">
             <img src="/profile.jpg" alt="profile-pic" className="rounded-3xl md:rounded-lg object-cover" />
@@ -37,6 +38,7 @@ const About = () => {
         </section>
         <TechStack />
       </div>
+        <Footer />
     </div>
   )
 }

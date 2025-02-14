@@ -59,7 +59,7 @@ const Header = () => {
                             Blog
                         </a>
                         <a
-                            href="#"
+                            href="/JOHN_SAMUEL_RESUME.pdf"
                             className="bg-primary text-white px-6 py-3 rounded-full hover:bg-[#cf5638] transition"
                             onClick={toggleSidebar}
                         >

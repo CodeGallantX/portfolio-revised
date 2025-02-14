@@ -13,7 +13,6 @@ const Header = () => {
         <div>
             <header className="fixed w-4/5 bg-white shadow-md rounded-full left-1/2 -translate-x-1/2 top-8 z-30 flex items-center justify-between px-6 md:px-10 py-6">
                 <a href="/" className="text-3xl font-bold font-outfit">
-                    {/* STEM <span className="text-[#e76f51]">Hub</span> */}
                     <span>John Samuel</span>
                 </a>
 
@@ -22,8 +21,8 @@ const Header = () => {
                     <a href="/features">Portfolio</a>
                     <a href="/contact">Blog</a>
                     <a
-                        href="/login"
-                        className="bg-[#e76f51] text-white px-6 py-3 rounded-full font-medium hover:bg-[#cf5638] transition"
+                        href="/JOHN_SAMUEL_RESUME.pdf"
+                        className="bg-primary text-white px-6 py-3 rounded-full font-medium hover:bg-[#cf5638] transition"
                     >
                         View Resume
                     </a>

@@ -16,6 +16,7 @@ const Footer = () => {
                         <span>+234 809 604 4860</span>
                     </a>
                 </div>
+                <p>&copy; {new Date().getFullYear()} John Samuel</p>
             </div>
             <div>
                 <form action="" className="space-y-3">
