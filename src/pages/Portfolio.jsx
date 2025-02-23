@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Header from "../components/HeaderComponent";
 import Footer from "../components/Footer";
 import projectsData from "../../data/projects.json";
+import { FaGithub, FaLink } from "react-icons/fa6"
 
 const Portfolio = () => {
     const [projects, setProjects] = useState([]);
@@ -34,43 +35,46 @@ const Portfolio = () => {
                         {projects.map((project, index) => (
                             <div
                                 key={index}
-                                className="relative group w-full max-w-lg flex flex-col items-start justify-start space-y-4 bg-white py-1 px-2 rounded-xl"
+                                className="relative group w-full max-w-lg flex flex-col items-start justify-start space-y-2 bg-zinc-50 p-4 rounded-2xl"
                             >
-                                <div className="w-full h-full absolute bg-primary/80 -right-4 -bottom-4 -translate-y-6 -translate-x-6 rounded-lg opacity-0 -z-10 group-hover:opacity-100 group-hover:-translate-y-0 group-hover:-translate-x-0 transition-all duration-300 ease-in-out"></div>
-                                
+                                <div className="w-full h-full absolute border-2 border-primary/80 -right-4 -bottom-4 -translate-y-4 -translate-x-4 rounded-2xl opacity-0 -z-10 group-hover:opacity-100 group-hover:-translate-y-0 group-hover:-translate-x-0 transition-all duration-300 ease-in-out"></div>
+
                                 <img
                                     src={project.img}
                                     alt={project.title}
-                                    className="rounded-lg"
+                                    className="rounded-lg w-full max-w-md h-[180px]"
                                 />
+                                <div className="pl-2 space-y-3">
 
-                                <h2 className="text-3xl font-bold">{project.title}</h2>
+                                    <h2 className="text-2xl font-bold mt-1">{project.title}</h2>
 
-                                <p>{project.description}</p>
+                                    <p className="text-slate-700">{project.description}</p>
 
-                                <ul className="flex flex-wrap gap-4">
-                                    {project.tech_stack.map((tool, idx) => (
-                                        <li key={idx} className="bg-gray-100 p-1 text-sm">
-                                            {tool}
-                                        </li>
-                                    ))}
-                                </ul>
+                                    <ul className="flex flex-wrap gap-4">
+                                        {project.tech_stack.map((tool, idx) => (
+                                            <li key={idx} className="bg-gray-100 p-1 text-sm">
+                                                {tool}
+                                            </li>
+                                        ))}
+                                    </ul>
 
-                                <div className="space-x-6 text-primary">
-                                    <a
-                                        href={project.github_url}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        GitHub
-                                    </a>
-                                    <a
-                                        href={project.demo_url}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        Visit Website
-                                    </a>
+                                    <div className="space-x-6 text-primary text-sm">
+                                        <a
+                                            href={project.github_url}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+                                            <FaGithub className="inline-block mr-1" />
+                                            GitHub
+                                        </a>
+                                        <a
+                                            href={project.demo_url}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        > <FaLink className="inline-block mr-1" />
+                                            Visit Website
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         ))}

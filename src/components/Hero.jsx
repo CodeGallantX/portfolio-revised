@@ -17,7 +17,7 @@ export default function Hero() {
           <TypeAnimation
             sequence={[
               "Frontend Developer",
-              7000,
+              5000,
               "Backend Developer",
               2000,
               "Data Analyst",

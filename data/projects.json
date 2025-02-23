@@ -3,7 +3,7 @@
         "title":"Tripout.co",
         "description":"Tripout.co is a travel agency that helps you plan any kind of trip, short weekend holiday, or a vacation, while helping you save the money needed to pay the trip fees.",
         "img" :"/tripout.png",
-        "tech_stack": ["React", "TailwindCSS"],
+        "tech_stack": ["JavaScript", "React", "TailwindCSS"],
         "github_url": "https://github.com/codegallantx/tripout-tour",
         "demo_url": "https://tripout-tour-v4.vercel.app/"
     },
@@ -26,10 +26,18 @@
     {
         "title":"StatEase",
         "description":"A user-friendly statistics app for descriptive analysis, data visualizations, and inferential statistics",
-        "img" :"/statease.png",
+        "img" :"/Statease.png",
         "tech_stack": ["Python", "Streamlit"],
         "github_url": "https://github.com/codegallantx/statease",
         "demo_url": "https://statease-cgx.streamlit.app/"
+    },
+    {
+        "title":"NextGen Health",
+        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
+        "img" :"/nextgen.png",
+        "tech_stack": ["JavaScript", "TailwindCSS", "Next.js"],
+        "github_url": "https://github.com/codegallantx/nextgen-health",
+        "demo_url": "https://nextgen-health.vercel.app/"
     },
     {
         "title":"LevelUp Recyclers",
@@ -42,7 +50,7 @@
     {
         "title":"EkoStudy",
         "description":"EkoStudy is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
-        "img" :"",
+        "img" :"/ekostudy.png",
         "tech_stack": ["HTML", "CSS", "JavaScript"],
         "github_url": "https://github.com/codegallantx/ekostudy",
         "demo_url": "https://ekostudy.vercel.app/"
@@ -77,7 +85,7 @@
         "img" :"/chef-timbu.png",
         "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
         "github_url": "https://github.com/codegallantx/chef",
-        "demo_url": "https://chef-store-cgx.vercel.app/",
+        "demo_url": "https://chef-store-cgx.vercel.app/"
     },
     {
         "title":"NodeFall",
