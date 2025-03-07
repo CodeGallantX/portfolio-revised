@@ -32,6 +32,14 @@
         "demo_url": "https://statease-cgx.streamlit.app/"
     },
     {
+        "title":"EkoStudy",
+        "description":"EkoStudy is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
+        "img" :"/ekostudy.png",
+        "tech_stack": ["TypeScript", "TailwindCSS", "Next.js"],
+        "github_url": "https://github.com/codegallantx/eko-study",
+        "demo_url": "https://eko-study.vercel.app/"
+    },
+    {
         "title":"NextGen Health",
         "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
         "img" :"/nextgen.png",
@@ -40,20 +48,20 @@
         "demo_url": "https://nextgen-health.vercel.app/"
     },
     {
+        "title":"TripLoga",
+        "description":"Triploga is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
+        "img" :"/triploga.png",
+        "tech_stack": ["JavaScript", "React", "TailwindCSS", "Python", "Django", "DjangoREST Framework", "PostgreSQL"],
+        "github_url": "https://github.com/codegallantx/triploga",
+        "demo_url": "https://triploga.vercel.app/"
+    },
+    {
         "title":"LevelUp Recyclers",
         "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
         "img" :"",
         "tech_stack": ["TypeScript", "Next.js", "TailwindCSS"],
         "github_url": "#",
         "demo_url": "https://leveluprecyclers.com/"
-    },
-    {
-        "title":"EkoStudy",
-        "description":"EkoStudy is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
-        "img" :"/ekostudy.png",
-        "tech_stack": ["HTML", "CSS", "JavaScript"],
-        "github_url": "https://github.com/codegallantx/ekostudy",
-        "demo_url": "https://ekostudy.vercel.app/"
     },
     {
         "title":"EduConnect",
