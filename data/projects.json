@@ -1,19 +1,19 @@
 [
     {
+        "title":"EduReach",
+        "description":"EduReach is an open-source initiative tackling Nigeria's education crisis. Join us in building innovative solutions for digital access, employability, and quality learning.",
+        "img" :"/edureach-login.png",
+        "tech_stack": ["JavaScript", "React", "TailwindCSS", "Node.js", "Framer-Motion"],
+        "github_url": "https://github.com/codegallantx/edureach",
+        "demo_url": "https://edureach-psi.vercel.app/"
+    },
+    {
         "title":"Tripout.co",
         "description":"Tripout.co is a travel agency that helps you plan any kind of trip, short weekend holiday, or a vacation, while helping you save the money needed to pay the trip fees.",
         "img" :"/tripout.png",
         "tech_stack": ["JavaScript", "React", "TailwindCSS"],
         "github_url": "https://github.com/codegallantx/tripout-tour",
         "demo_url": "https://tripout-tour-v4.vercel.app/"
-    },
-    {
-        "title":"STEM-HUB",
-        "description":"A web app for interactive STEM learning through simulations, games, and other engaging activities",
-        "img" :"/stemhub.png",
-        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS"],
-        "github_url": "https://github.com/codegallantx/stem-hub",
-        "demo_url": "https://stem-hub.vercel.app/"
     },
     {
         "title":"CivicTrack",
@@ -24,28 +24,12 @@
         "demo_url": "https://civic-track-tkhv.vercel.app/"
     },
     {
-        "title":"StatEase",
-        "description":"A user-friendly statistics app for descriptive analysis, data visualizations, and inferential statistics",
-        "img" :"/Statease.png",
-        "tech_stack": ["Python", "Streamlit"],
-        "github_url": "https://github.com/codegallantx/statease",
-        "demo_url": "https://statease-cgx.streamlit.app/"
-    },
-    {
         "title":"EkoStudy",
         "description":"EkoStudy is an online learning platform for students in tertiary institutions which houses resources that are easy to understand and contain only the essentials needed for great performance in their academics.",
         "img" :"/ekostudy.png",
         "tech_stack": ["TypeScript", "TailwindCSS", "Next.js"],
         "github_url": "https://github.com/codegallantx/eko-study",
         "demo_url": "https://eko-study.vercel.app/"
-    },
-    {
-        "title":"NextGen Health",
-        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
-        "img" :"/nextgen.png",
-        "tech_stack": ["JavaScript", "TailwindCSS", "Next.js"],
-        "github_url": "https://github.com/codegallantx/nextgen-health",
-        "demo_url": "https://nextgen-health.vercel.app/"
     },
     {
         "title":"TripLoga",
@@ -56,12 +40,12 @@
         "demo_url": "https://triploga.vercel.app/"
     },
     {
-        "title":"LevelUp Recyclers",
-        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
-        "img" :"",
-        "tech_stack": ["TypeScript", "Next.js", "TailwindCSS"],
-        "github_url": "#",
-        "demo_url": "https://leveluprecyclers.com/"
+        "title":"StatEase",
+        "description":"A user-friendly statistics app for descriptive analysis, data visualizations, and inferential statistics",
+        "img" :"/Statease.png",
+        "tech_stack": ["Python", "Streamlit"],
+        "github_url": "https://github.com/codegallantx/statease",
+        "demo_url": "https://statease-cgx.streamlit.app/"
     },
     {
         "title":"EduConnect",
@@ -70,6 +54,30 @@
         "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "JSON API"],
         "github_url": "https://github.com/codegallantx/educonnect",
         "demo_url": "https://educonect.vercel.app/"
+    },
+    {
+        "title":"STEM-HUB",
+        "description":"A web app for interactive STEM learning through simulations, games, and other engaging activities",
+        "img" :"/stemhub.png",
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS"],
+        "github_url": "https://github.com/codegallantx/stem-hub",
+        "demo_url": "https://stem-hub.vercel.app/"
+    },
+    {
+        "title":"NextGen Health",
+        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
+        "img" :"/nextgen.png",
+        "tech_stack": ["JavaScript", "TailwindCSS", "Next.js"],
+        "github_url": "https://github.com/codegallantx/nextgen-health",
+        "demo_url": "https://nextgen-health.vercel.app/"
+    },
+    {
+        "title":"LevelUp Recyclers",
+        "description":"A website developed to support waste management efforts, combining efficiency with an eco-conscious design.",
+        "img" :"",
+        "tech_stack": ["TypeScript", "Next.js", "TailwindCSS"],
+        "github_url": "#",
+        "demo_url": "https://leveluprecyclers.com/"
     },
     {
         "title":"Silent Note Passing Protocol (SNPP)",
