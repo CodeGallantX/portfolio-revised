@@ -38,15 +38,12 @@ export default function Hero() {
             <FaWhatsapp className="text-2xl text-gray-600" />
           </a>
           <a href="#">
-            <FaInstagram className="text-2xl text-gray-600" />
-          </a>
-          <a href="#">
             <FaDiscord className="text-2xl text-gray-600" />
           </a>
-          <a href="#">
+          <a href="johnayobami77@proton.me">
             <FaEnvelope className="text-2xl text-gray-600" />
           </a>
-          <a href="#">
+          <a href="https://github.com/codegallantx">
             <FaGithub className="text-2xl text-gray-600" />
           </a>
         </div>
