@@ -10,7 +10,7 @@
     {
         "title": "Presently",
         "description": "Presently is a real-time, location-verified attendance register PWA for universities. It verifies student attendance through GPS geofencing, real-time monitoring, and timetable validation, ensuring authenticity and accuracy in academic records.",
-        "img": "/presently.png",
+        "img": "/presently-hero.png",
         "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "React Context API", "Supabase", "ShadCN UI", "PWA", "PostgreSQL"],
         "github_url": "#",
         "demo_url": "https://presently-silk.vercel.app/"
