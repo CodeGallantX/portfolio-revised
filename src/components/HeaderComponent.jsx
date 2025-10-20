@@ -23,7 +23,7 @@ const Header = () => {
                         <a href="/portfolio">Portfolio</a>
                         <a href="/blog">Blog</a>
                         <a
-                            href="/JOHN_SAMUEL_RESUME.pdf"
+                            href="/John_Samuel_Resume.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="bg-primary text-white px-6 py-3 rounded-full font-medium hover:bg-[#cf5638] transition"
