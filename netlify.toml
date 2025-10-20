@@ -1,0 +1,15 @@
+[build]
+  # If you’re using a build tool like React, Vite, or Next.js:
+  command = "npm run build"
+
+  # If it's plain HTML/CSS/JS, just comment the above and leave publish
+  # command = "# no build step for static site"
+
+  # Folder where your final files live after build
+  publish = "dist"
+
+# Redirect all routes to index.html (for SPA or clean URLs)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
