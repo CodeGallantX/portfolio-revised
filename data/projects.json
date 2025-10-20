@@ -18,7 +18,7 @@
     {
         "title": "SummaStudy",
         "description": "SummaStudy is a student-focused academic progressive web app built to help undergraduates improve grades through curated resources, verified tutors, and personalized study insights. It provides access to notes, past questions, and tutorial bookings within an engaging, gamified experience.",
-        "img": "/summastudy.png",
+        "img": "https://ekostudy-v2.vercel.app/screenshots/student-dashboard.png",
         "tech_stack": ["TypeScript", "Next.js", "TailwindCSS", "Supabase", "Zustand", "Zod", "ShadCN UI", "PWA", "PostgreSQL"],
         "github_url": "#",
         "demo_url": "https://ekostudy-v2.vercel.app/"
