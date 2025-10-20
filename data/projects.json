@@ -11,7 +11,7 @@
         "title": "Presently",
         "description": "Presently is a real-time, location-verified attendance register PWA for universities. It verifies student attendance through GPS geofencing, real-time monitoring, and timetable validation, ensuring authenticity and accuracy in academic records.",
         "img": "/presently.png",
-        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "React Context API", "Supabase", "ShadCN UI", "PWA", "PostgreSQL",],
+        "tech_stack": ["JavaScript", "Next.js", "TailwindCSS", "React Context API", "Supabase", "ShadCN UI", "PWA", "PostgreSQL"],
         "github_url": "#",
         "demo_url": "https://presently-silk.vercel.app/"
     },
@@ -19,7 +19,7 @@
         "title": "SummaStudy",
         "description": "SummaStudy is a student-focused academic PWA built to help undergraduates improve grades through curated resources, verified tutors, and personalized study insights. It provides access to notes, past questions, and tutorial bookings within an engaging, gamified experience.",
         "img": "/summastudy.png",
-        "tech_stack": ["TypeScript", "Next.js", "TailwindCSS", "Supabase", "Zustand", "Zod", "ShadCN UI", "PWA", "PostgreSQL",],
+        "tech_stack": ["TypeScript", "Next.js", "TailwindCSS", "Supabase", "Zustand", "Zod", "ShadCN UI", "PWA", "PostgreSQL"],
         "github_url": "#",
         "demo_url": "https://ekostudy-v2.vercel.app/"
     },
